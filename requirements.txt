@@ -1,3 +1,9 @@
-# Natural Language Processing
+# Natural Language Processing.
 nltk
 numpy
+# To use clustering.
+scikit-learn
+# Dependency of word2vec
+Cython
+# To get a feature vector.
+word2vec
